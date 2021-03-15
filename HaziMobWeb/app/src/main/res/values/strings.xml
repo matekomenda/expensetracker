@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HaziMobWeb</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">No Data</string>
+    <string name="category">Category</string>
+    <string name="price_in">Price in €</string>
+    <string name="card_cash">Card/Cash</string>
+    <string name="name">Name</string>
+    <string name="search">search</string>
+    <string name="delete_all">Delete All</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="update">update</string>
+    <string name="money">Money</string>
+    <string name="price">Price</string>
+    <string name="emptydb">emptydb</string>
+    <string name="set_amount">Set Amount</string>
+    <string name="set">set</string>
+    <string name="amountin">Amount in €</string>
+</resources>
